@@ -1,0 +1,62 @@
+# Quartus project files
+*.qpf
+*.qsf
+*.qar
+*.qws
+
+# Quartus database files
+db/
+incremental_db/
+
+# Quartus output files
+*.sof
+*.pof
+*.jic
+*.rpd
+*.hexout
+*.elf
+*.map
+*.smsg
+*.htm
+*.html
+*.chg
+*.pin
+*.csv
+*.fs
+*.csf
+*.qws
+*.sld
+*.srf
+*.summary
+
+# Quartus temporary files
+*.rpt
+*.log
+*.lck
+*.tmp
+*.temp
+*.bak
+*.qws.lock
+
+# Other build and temporary files
+simulation/
+output_files/
+*.bak
+*.rbt
+*.smsg
+*.time
+*.done
+*.zip
+*~
+.*.swp
+
+# ModelSim and other simulation tool files
+*.wlf
+transcript
+vsim.wlf
+modelsim.ini
+*.mti
+
+# Ignore Quartus IP output files
+ip/
+
