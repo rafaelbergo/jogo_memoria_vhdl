@@ -25,6 +25,10 @@ Este projeto é um jogo da memória com dígitos hexadecimais gerados aleatoriam
 
 ## Ferramentas utilizadas
 
+
   Quartus Prime - 18.1.0.625
 
   FPGA DE10-Lite Altera - 10M50DAF484C7G
+
+## Fotos
+![20250219_131803](https://github.com/user-attachments/assets/97a9d1f6-dbe7-4adf-80a7-dbc380943b93)
